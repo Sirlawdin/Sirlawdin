@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sirlawdin
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on Projects related to DevOps to improve my knowledge
+- 🌱 I’m into DevOps
+- 💞️ I’m looking to collaborate on Projects related to DevOps
 - 📫 How to reach me on salaudeen.abdulrasaq2008@gmail.com
 
 <!---
