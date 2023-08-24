@@ -5,6 +5,7 @@ Experienced CloudOps / DevOps Engineer with a strong background in System Admini
 🌐 **Expertise:**
 - Cloud Operations
 - DevOps Practices
+- Networking
 - Automation
 - Secure Deployment
 - System Administration
