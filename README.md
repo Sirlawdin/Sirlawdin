@@ -16,11 +16,16 @@ Experienced **CloudOps / DevOps Engineer** with a strong background in **System 
 
 ## 🏆 Certifications
 
+### 🎖 Kubernetes 
+- Kubernetes Cloud Native Associate (KCNA)
+- Kubernetes Certified Administrator (CKA)
+
 ### 🎖 AWS  
 - AWS Certified Cloud Practitioner  
 - AWS Certified Solutions Architect - Associate  
 - AWS Certified Developer Associate  
-- AWS Certified SysOps Administrator  
+- AWS Certified SysOps Administrator
+- AWS Certified DevOps Engineer - Professional  
 
 ### 🎖 HashiCorp  
 - HashiCorp Terraform Associate  
