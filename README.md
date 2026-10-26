@@ -18,6 +18,7 @@ Experienced **CloudOps / DevOps Engineer** with a strong background in **System 
 
 ### 🎖 Kubernetes 
 - Kubernetes Cloud Native Associate (KCNA)
+- Kubernetes and Cloud Native Security Associate (KCSA)
 - Kubernetes Certified Administrator (CKA)
 - Certified Kubernetes Security Specialist (CKS)
 
